@@ -9,7 +9,7 @@
 
 🎓  I have completed my **Bachelor of Engineering** in Computer Science at Sambhram Institute of Technology, Bengaluru.
 
-💻 I’m passionate about building real-world applications that intersect with climate, sustainability, and community impact.
+💻 I’m passionate about building real-world applications.
 
 🌱 Currently learning:  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 **Java & Spring Boot**  
