@@ -16,15 +16,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 **Backend Development**  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 **Software Design Patterns**
 
+📫 Reach me at: **sumasahithi.2235@gmail.com**
+
 ---
 
 <h3 align="left">🌐 Connect with me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/suma-sahithi-768070252" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:sumasahithi.2235@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Email.svg" alt="Email" height="30" width="40" />
   </a>
 </p>
 
