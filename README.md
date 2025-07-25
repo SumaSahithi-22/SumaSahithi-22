@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suma Sahithi</h1>
-<h3 align="center">Aspiring Software Developer | Web & ML Enthusiast | Passionate about Tech for Impact</h3>
+<h3 align="center">Aspiring Data Analyst | Python & SQL Enthusiast | Passionate about Turning Data into Actionable Insights</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SumaSahithi-22&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -7,14 +7,14 @@
 
 ---
 
-🎓  I have completed my **Bachelor of Engineering** in Computer Science at Sambhram Institute of Technology, Bengaluru.
+🎓 I have completed my **Bachelor of Engineering** in Computer Science at Sambhram Institute of Technology, Bengaluru.
 
-💻 I’m passionate about building real-world applications.
+📊 I'm passionate about **analyzing data to drive decisions** and **building solutions with impact**.
 
 🌱 Currently learning:  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 **Java & Spring Boot**  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 **Backend Development**  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 **Software Design Patterns**
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 **Power BI & Tableau**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 **Statistical Analysis & Hypothesis Testing**  
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 **Data Engineering Basics with Python & SQL**
 
 📫 Reach me at: **sumasahithi.2235@gmail.com**
 
@@ -39,6 +39,22 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/pandas.svg?raw=true" alt="Pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="100" height="40"/>
+  </a>
+    </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
